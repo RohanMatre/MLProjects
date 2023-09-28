@@ -1,0 +1,1 @@
+2023-09-28 21:47:03,169 - custom_logger - ERROR - Divide by Zero Error
